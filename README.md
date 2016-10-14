@@ -1,1 +1,1 @@
-# pwn
+# Some CTFs' pwnscript
